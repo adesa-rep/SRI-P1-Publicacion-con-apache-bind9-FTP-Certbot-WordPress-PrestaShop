@@ -1,27 +1,3 @@
----
-tags:
-AutoNoteMover: disable
-excalidraw-plugin: parsed
-excalidraw-open-md: true
-created: 2026-01-31T19:06
-updated: 2026-01-31T19:06
-source:
-child:
-related_to:
-aliases:
-space: ASIR
-topic:
-  - ASIR Segundo Año
-Materia: "[Servicios de Red e Internet](Servicios%20de%20Red%20e%20Internet)"
-Area: "[00 Proyectos - Entregas](00%20Proyectos%20-%20Entregas)"
-Unidad: ""
-status:
-  - Done
-Tipo:
-  - Investigación
-cssclasses:
----
-
 # Preparación
 ## Alquiler de dominio y VPS
 Para  el desarrollo de este proyecto se procede con el **alquiler de un dominio** en IONOS llamado `adesa-asir.com`. Posteriormente, se adquiere un servidor VPS tambien de IONOS con el SO Ubuntu Server 24.04.
