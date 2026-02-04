@@ -920,7 +920,13 @@ sudo rm -r install/
 
 ![FINAL/SRI%20proyecto%20con%20ionos/SRI-45](FINAL/SRI%20proyecto%20con%20ionos/SRI-45.png)
 
+# Personal
+
 <img width="2853" height="1588" alt="image" src="https://github.com/user-attachments/assets/517e3cb7-9fa5-4497-a01b-24d54ef4c6fa" />
+
+# Resultado final de Pagina personal, WordPress y PrestaShop
+<img width="1547" height="750" alt="image" src="https://github.com/user-attachments/assets/a9700205-1654-40de-8a3b-2ebfe04b082f" />
+
 
 
 
