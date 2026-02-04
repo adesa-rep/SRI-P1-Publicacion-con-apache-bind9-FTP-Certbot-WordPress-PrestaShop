@@ -919,3 +919,8 @@ sudo rm -r install/
 ![FINAL/SRI%20proyecto%20con%20ionos/SRI-43](FINAL/SRI%20proyecto%20con%20ionos/SRI-43.png)
 
 ![FINAL/SRI%20proyecto%20con%20ionos/SRI-45](FINAL/SRI%20proyecto%20con%20ionos/SRI-45.png)
+
+<img width="2853" height="1588" alt="image" src="https://github.com/user-attachments/assets/517e3cb7-9fa5-4497-a01b-24d54ef4c6fa" />
+
+
+
